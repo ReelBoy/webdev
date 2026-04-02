@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+h2 {
+    color: darkturquoise;
+    font-style: italic;
+}
+
+.class {
+    color: red;
+}
+
+#id {
+    color: white;
+}
