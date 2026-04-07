@@ -57,3 +57,12 @@ footer {
 #wagonimg {
     width: 100%;
 }
+
+form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#submit {
+    grid-column: 1/3;
+}
