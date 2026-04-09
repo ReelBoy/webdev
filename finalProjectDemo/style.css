@@ -73,6 +73,7 @@ form {
 }
 
 table {
+    width: 100%;
     border: 1px solid #fa9f42;
     text-align: center;
 }
